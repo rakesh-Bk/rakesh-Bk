@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @rakesh-Bk
-- 👀 I’m interested in ML,AI,webdev
+- Rakesh B K
 
 
 <!---
